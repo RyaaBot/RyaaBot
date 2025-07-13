@@ -2,7 +2,7 @@
 
 </div>
 
-This script is created by [RyaaBot](https://github.com/RyaaBot) using Node.js and the [WhiskeySocket/Baileys](https://github.com/WhiskeySockets/Baileys) library. The script is currently in the development phase (BETA), so there may still be some errors that can be ignored. If errors persist even after debugging, please contact the owner for assistance. ~ By Naze
+This script is created by [RyaaBot](https://github.com/RyaaBot) using Node.js and the [WhiskeySocket/Baileys](https://github.com/WhiskeySockets/Baileys) library. The script is currently in the development phase (BETA), so there may still be some errors that can be ignored. If errors persist even after debugging, please contact the owner for assistance. ~ By Ryaa
 
 ## Contributor
 
@@ -76,5 +76,5 @@ License: [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Thanks to
 
-[![Zaynn](https://github.com/ZaynRcK.png?size=100)](https://github.com/ZaynRcK) |
-[Zaynn](https://github.com/ZaynRcK) |
+[![Zaynn](https://github.com/ZaynRcK.png?size=100)](https://github.com/ZaynRcK)
+[Zaynn](https://github.com/ZaynRcK) 
