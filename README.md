@@ -10,9 +10,6 @@ This script is created by [RyaaBot](https://github.com/RyaaBot) using Node.js an
 - [Zaynn](https://github.com/ZaynRcK) (Penyedia Layanan API)
 - [Dani](https://github.com/nazedev) (Penyumbang Code)
 
-#### Join Group
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Hx9vcBVhbc04KLVGPFtH2R) 
-
 ---
 #### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nazedev/hitori)
@@ -81,5 +78,5 @@ License: [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Thanks to
 
-[![Zaynn](https://github.com/ZaynRcK.png?size=100)](https://github.com/ZaynRcK) | [![WhiskeySockets](https://github.com/WhiskeySockets.png?size=100)](https://github.com/WhiskeySockets) |
- [Zaynn](https://github.com/ZaynRcK) | [WhiskeySockets](https://github.com/WhiskeySockets) |
+[![Zaynn](https://github.com/ZaynRcK.png?size=100)](https://github.com/ZaynRcK) | [!(https://github.com/WhiskeySockets) |
+[Zaynn](https://github.com/ZaynRcK) |
