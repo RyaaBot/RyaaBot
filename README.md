@@ -6,10 +6,8 @@ This script is created by [RyaaBot](https://github.com/RyaaBot) using Node.js an
 
 ## Contributor
 
-- [NazeDev](https://github.com/nazedev) (Pembuat)
+- [RyaaBot](https://github.com/nazedev) (Pembuat)
 - [Zaynn](https://github.com/ZaynRcK) (Penyedia Layanan API)
-- [Dani](https://github.com/nazedev) (Penyumbang Code)
-
 ---
 #### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nazedev/hitori)
@@ -78,5 +76,5 @@ License: [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Thanks to
 
-[![Zaynn](https://github.com/ZaynRcK.png?size=100)](https://github.com/ZaynRcK) | [!(https://github.com/WhiskeySockets) |
+[![Zaynn](https://github.com/ZaynRcK.png?size=100)](https://github.com/ZaynRcK) |
 [Zaynn](https://github.com/ZaynRcK) |
